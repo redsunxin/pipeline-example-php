@@ -2,7 +2,7 @@ stages:
 - name: Codeception test
   steps:
   - runScriptConfig:
-      image: php:7.2
+      image: loongson.harbor.cn/loongnix/php:7.3
       shellScript: |-
         apt-get update
         apt-get install -y --no-install-recommends git zip libsqlite3-dev zlib1g-dev
@@ -20,7 +20,16 @@ stages:
   - publishImageConfig:
       dockerfilePath: ./Dockerfile
       buildContext: .
-      tag: php-example:${CICD_EXECUTION_SEQUENCE}
+      tag: loongnix/php-example:${CICD_EXECUTION_SEQUENCE}
+      pushRemote: true
+      registry: loongson.harbor.cn
+    env:
+      PLUGIN_DEBUG: "true"
+      PLUGIN_INSECURE: "true"
+      PLUGIN_PASSWORD: admin
+      PLUGIN_REGISTRY: loongson.harbor.cn
+      PLUGIN_USERNAME: admin
+
 - name: Deploy
   steps:
   - applyYamlConfig:
