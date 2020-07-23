@@ -11,7 +11,7 @@
             "version": "v1.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/doctrine/inflector.git",
+                "url": "https://gitee.com/redsunxin/inflector",
                 "reference": "90b2128806bfde671b6952ab8bea493942c1fdae"
             },
             "dist": {
@@ -78,7 +78,7 @@
             "version": "1.6.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/erusev/parsedown.git",
+                "url": "https://gitee.com/redsunxin/parsedown",
                 "reference": "fbe3fe878f4fe69048bb8a52783a09802004f548"
             },
             "dist": {
@@ -123,7 +123,7 @@
             "version": "0.2.5",
             "source": {
                 "type": "git",
-                "url": "https://github.com/FlowCommunications/JSONPath.git",
+                "url": "https://gitee.com/redsunxin/JSONPath",
                 "reference": "4c7165470c6df22180d2a1720bc402d4cdef402e"
             },
             "dist": {
@@ -161,7 +161,7 @@
             "version": "v1.7.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/fzaninotto/Faker.git",
+                "url": "https://gitee.com/redsunxin/Faker",
                 "reference": "d3ed4cc37051c1ca52d22d76b437d14809fc7e0d"
             },
             "dist": {
@@ -211,7 +211,7 @@
             "version": "v5.4.36",
             "source": {
                 "type": "git",
-                "url": "https://github.com/laravel/framework.git",
+                "url": "https://gitee.com/redsunxin/framework",
                 "reference": "1062a22232071c3e8636487c86ec1ae75681bbf9"
             },
             "dist": {
@@ -340,7 +340,7 @@
             "version": "1.0.41",
             "source": {
                 "type": "git",
-                "url": "https://github.com/thephpleague/flysystem.git",
+                "url": "https://gitee.com/redsunxin/flysystem",
                 "reference": "f400aa98912c561ba625ea4065031b7a41e5a155"
             },
             "dist": {
@@ -423,7 +423,7 @@
             "version": "1.23.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Seldaek/monolog.git",
+                "url": "https://gitee.com/redsunxin/monolog",
                 "reference": "fd8c787753b3a2ad11bc60c063cff1358a32a3b4"
             },
             "dist": {
@@ -488,7 +488,7 @@
                 }
             ],
             "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
-            "homepage": "http://github.com/Seldaek/monolog",
+            "homepage": "https://gitee.com/redsunxin/monolog",
             "keywords": [
                 "log",
                 "logging",
@@ -501,7 +501,7 @@
             "version": "v1.2.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/mtdowling/cron-expression.git",
+                "url": "https://gitee.com/redsunxin/cron-expression",
                 "reference": "9504fa9ea681b586028adaaa0877db4aecf32bad"
             },
             "dist": {
@@ -545,7 +545,7 @@
             "version": "1.22.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/briannesbitt/Carbon.git",
+                "url": "https://gitee.com/redsunxin/Carbon",
                 "reference": "7cdf42c0b1cc763ab7e4c33c47a24e27c66bfccc"
             },
             "dist": {
@@ -598,7 +598,7 @@
             "version": "v2.0.11",
             "source": {
                 "type": "git",
-                "url": "https://github.com/paragonie/random_compat.git",
+                "url": "https://gitee.com/redsunxin/random_compat",
                 "reference": "5da4d3c796c275c55f057af5a643ae297d96b4d8"
             },
             "dist": {
@@ -646,7 +646,7 @@
             "version": "1.0.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/php-fig/log.git",
+                "url": "https://gitee.com/redsunxin/log",
                 "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d"
             },
             "dist": {
@@ -680,7 +680,7 @@
                 }
             ],
             "description": "Common interface for logging libraries",
-            "homepage": "https://github.com/php-fig/log",
+            "homepage": "https://gitee.com/redsunxin/log",
             "keywords": [
                 "log",
                 "psr",
@@ -775,7 +775,7 @@
             "version": "v5.4.8",
             "source": {
                 "type": "git",
-                "url": "https://github.com/swiftmailer/swiftmailer.git",
+                "url": "https://gitee.com/redsunxin/swiftmailer",
                 "reference": "9a06dc570a0367850280eefd3f1dc2da45aef517"
             },
             "dist": {
@@ -829,7 +829,7 @@
             "version": "v3.4.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/console.git",
+                "url": "https://gitee.com/redsunxin/console",
                 "reference": "9f21adfb92a9315b73ae2ed43138988ee4913d4e"
             },
             "dist": {
